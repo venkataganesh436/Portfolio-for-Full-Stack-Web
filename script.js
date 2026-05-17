@@ -2,5 +2,5 @@
 
 function showMsg()
 {
-alert("Thank You for Contacting Me!");
+alert("Thank You");
 }
